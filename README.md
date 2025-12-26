@@ -1,14 +1,12 @@
-📊 Sentiment Analysis using Classical ML & BERT
+    📊 Sentiment Analysis using Classical ML & BERT
 
-This project implements a sentiment analysis system for Google Play Store reviews using both traditional machine learning techniques and a fine-tuned BERT model. The goal is to compare classical NLP approaches with modern transformer-based models for multi-class sentiment classification.
+         This project implements a sentiment analysis system for Google Play Store reviews using both traditional machine learning techniques and a fine-tuned BERT model. The goal is to compare classical NLP approaches with modern transformer-based models for multi-class sentiment classification.
 
-🚀 Project Overview
-
-   The system classifies user reviews into three sentiment classes:
-   
-        1. Negative
-        2. Neutral
-        3. Positive
+    🚀 Project Overview
+        The system classifies user reviews into three sentiment classes:
+            1. Negative
+            2. Neutral
+            3. Positive
 
     Two main approaches are used:
        1. TF-IDF + Classical Machine Learning
